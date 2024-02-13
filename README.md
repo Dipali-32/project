@@ -1,4 +1,4 @@
-# project
+#Library Management System Project
 
 This is a library management system project.
 In this project, I used PHP as the main language. I used HTML, CSS, JavaScript, Bootstrap, and MySQL for the database. In this project, there are two sides to the portal: one is for students, and the other is for librarians. 
